@@ -22,7 +22,7 @@
     </dependencies>
 
     <build>
-        <finalName>aikido2</finalName>
+        <finalName>aikido</finalName>
         <plugins>
             <!-- Maven Compiler Plugin -->
             <plugin>
